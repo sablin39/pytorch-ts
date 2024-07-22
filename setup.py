@@ -16,7 +16,7 @@ setup(
     python_requires=">=3.6",
     install_requires=[
         "torch>=1.8.0",
-        "gluonts==0.12.8",
+        "gluonts>=0.12.8",
         "holidays",
         "numpy",
         "pandas",
